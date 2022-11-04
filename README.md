@@ -10,4 +10,4 @@ bin/magento setup:upgrade
 ```
 
 ### Watch the full tutorial here
-See [Youtube]().
+See [Youtube](https://www.youtube.com/watch?v=S3w5cEsUPpk).
